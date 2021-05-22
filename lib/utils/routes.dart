@@ -1,4 +1,4 @@
 class MomentsRoutes {
-  static String messagesRoute = "/messages";
-  static String homeRoute = "/home";
+  static String mainScreenRoute = "/mainscreen";
+  static String loginRoute = "/login";
 }
