@@ -8,9 +8,9 @@ Moments is a new social platform made in Flutter.
 
 <img src="https://imgur.com/MDd6jfh.gif" width="210">
 
-### Sign up and Login page
+### Sign up and Login
 
-<img src="https://imgur.com/B9eVNoK.png" width = "210">
+<img src="https://imgur.com/daUTIbT.png" width="210"> <img src="https://imgur.com/B9eVNoK.png" width = "210">
 
 ### Feeds, Chats and Account
 
