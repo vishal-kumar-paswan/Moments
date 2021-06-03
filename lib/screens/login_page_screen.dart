@@ -13,11 +13,12 @@ class LoginPage extends StatelessWidget {
         width: double.infinity,
         child: SingleChildScrollView(
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               ClipPath(
                 child: Container(
-                  height: 280,
+                  height: 260,
                   width: double.infinity,
                   decoration: BoxDecoration(
                     gradient: LinearGradient(
@@ -35,9 +36,10 @@ class LoginPage extends StatelessWidget {
                     child: Text(
                       'Hello there,\nWelcome back.',
                       style: TextStyle(
-                          color: Colors.white,
-                          fontSize: 32,
-                          fontWeight: FontWeight.bold),
+                        color: Colors.white,
+                        fontSize: 32,
+                        fontWeight: FontWeight.bold,
+                      ),
                     ),
                   ),
                 ),
